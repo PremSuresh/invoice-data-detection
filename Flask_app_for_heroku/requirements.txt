@@ -1,0 +1,17 @@
+Flask==1.0.3
+gunicorn==19.9.0
+h5py==2.9.0
+Keras==2.2.4
+numpy==1.16.4
+protobuf==3.8.0
+PyYAML==5.1.1
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+tensorflow-hub==0.4.0
+uwsgi
+Flask-RESTful==0.3.7
+gevent==1.4.0
+requests==2.22.0
+urllib3==1.24.2
+xlrd==1.2.0
